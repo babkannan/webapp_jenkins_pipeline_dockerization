@@ -4,3 +4,4 @@
    - Jenkins
    - Docker
    - Docker Hub
+- Added the Git installation steps   
