@@ -5,5 +5,3 @@
    - Docker
    - Docker Hub
 - Added the Git installation step
-- Added test changes
-
