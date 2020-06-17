@@ -7,3 +7,4 @@
 - Added the Git installation step
 - Added feature changes
 - Adde more features 
+- Removed the redundant features
