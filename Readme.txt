@@ -8,3 +8,4 @@
 - Added feature changes
 - Adde more features 
 - Removed the redundant features
+- Fixed the typo
