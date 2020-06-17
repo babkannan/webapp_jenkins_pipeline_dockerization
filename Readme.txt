@@ -6,3 +6,4 @@
    - Docker Hub
 - Added the Git installation step
 - Added feature changes
+- Adde more features 
