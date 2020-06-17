@@ -5,5 +5,4 @@
    - Docker
    - Docker Hub
 - Added the Git installation step
-- My first changes added to the project 1
 
